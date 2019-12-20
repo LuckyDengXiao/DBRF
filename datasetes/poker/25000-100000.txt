@@ -1,0 +1,1412 @@
+2019-08-31 08:35:23 layer: 1
+all data ('acc', 0.9066773290683726)
+train loss ('acc', 0.9066773290683726)
+pass train loss (0, 0)
+pass train loss now (0, 1)
+vaild loss ('acc', 0.5909236305477809)
+pass vaild loss (0, 0)
+pass vaild loss now (0, 1)
+test loss ('acc', 0.62353)
+pass test loss (0, 0)
+pass test loss now (0, 1)
+1 [p:0/np:0] 
+
+2019-08-31 08:35:32 layer: 2
+all data ('acc', 0.9040383846461415)
+[p:324/1:161|n:24686/1:10438] 
+train loss ('acc', 0.9040383846461415)
+pass train loss ('acc', 0.8703703703703703)
+pass train loss now ('acc', 0.8703703703703703)
+vaild loss ('acc', 0.5869652139144342)
+pass vaild loss ('acc', 0.6327160493827161)
+pass vaild loss now ('acc', 0.6327160493827161)
+test loss ('acc', 0.62123)
+pass test loss ('acc', 0.5938485804416404)
+pass test loss now ('acc', 0.5938485804416404)
+not pass
+
+2019-08-31 08:35:53 layer: 3
+all data ('acc', 0.9063174730107957)
+[p:272/1:130|n:24738/1:10469] 
+train loss ('acc', 0.9063174730107957)
+pass train loss ('acc', 0.8933823529411765)
+pass train loss now ('acc', 0.8933823529411765)
+vaild loss ('acc', 0.5895641743302679)
+pass vaild loss ('acc', 0.6544117647058824)
+pass vaild loss now ('acc', 0.6544117647058824)
+test loss ('acc', 0.62308)
+pass test loss ('acc', 0.6301218161683277)
+pass test loss now ('acc', 0.6301218161683277)
+not pass
+
+2019-08-31 08:36:14 layer: 4
+all data ('acc', 0.9063974410235905)
+[p:306/1:161|n:24704/1:10438] 
+train loss ('acc', 0.9063974410235905)
+pass train loss ('acc', 0.8921568627450981)
+pass train loss now ('acc', 0.8921568627450981)
+vaild loss ('acc', 0.5888044782087165)
+pass vaild loss ('acc', 0.5784313725490197)
+pass vaild loss now ('acc', 0.5784313725490197)
+test loss ('acc', 0.62326)
+pass test loss ('acc', 0.5979469632164243)
+pass test loss now ('acc', 0.5979469632164243)
+not pass
+
+2019-08-31 08:36:35 layer: 5
+all data ('acc', 0.9059576169532187)
+[p:320/1:150|n:24690/1:10449] 
+train loss ('acc', 0.9059576169532187)
+pass train loss ('acc', 0.9125)
+pass train loss now ('acc', 0.9125)
+vaild loss ('acc', 0.5896441423430627)
+pass vaild loss ('acc', 0.634375)
+pass vaild loss now ('acc', 0.634375)
+test loss ('acc', 0.62244)
+pass test loss ('acc', 0.6386701662292213)
+pass test loss now ('acc', 0.6386701662292213)
+not pass
+
+2019-08-31 08:36:56 layer: 6
+all data ('acc', 0.9049580167932827)
+[p:272/1:153|n:24738/1:10446] 
+train loss ('acc', 0.9049580167932827)
+pass train loss ('acc', 0.8676470588235294)
+pass train loss now ('acc', 0.8676470588235294)
+vaild loss ('acc', 0.5899240303878449)
+pass vaild loss ('acc', 0.6139705882352942)
+pass vaild loss now ('acc', 0.6139705882352942)
+test loss ('acc', 0.62251)
+pass test loss ('acc', 0.5864978902953587)
+pass test loss now ('acc', 0.5864978902953587)
+not pass
+
+2019-08-31 08:37:18 layer: 7
+all data ('acc', 0.9043182726909237)
+[p:378/1:192|n:24632/1:10407] 
+train loss ('acc', 0.9043182726909237)
+pass train loss ('acc', 0.843915343915344)
+pass train loss now ('acc', 0.843915343915344)
+vaild loss ('acc', 0.585405837664934)
+pass vaild loss ('acc', 0.5529100529100529)
+pass vaild loss now ('acc', 0.5529100529100529)
+test loss ('acc', 0.61803)
+pass test loss ('acc', 0.5860749808722264)
+pass test loss now ('acc', 0.5860749808722264)
+not pass
+
+2019-08-31 08:37:39 layer: 8
+all data ('acc', 0.9071971211515394)
+[p:401/1:178|n:24609/1:10421] 
+train loss ('acc', 0.9071971211515394)
+pass train loss ('acc', 0.8877805486284289)
+pass train loss now ('acc', 0.8877805486284289)
+vaild loss ('acc', 0.5886845261895242)
+pass vaild loss ('acc', 0.6209476309226932)
+pass vaild loss now ('acc', 0.6209476309226932)
+test loss ('acc', 0.62168)
+pass test loss ('acc', 0.6275720164609053)
+pass test loss now ('acc', 0.6275720164609053)
+8 [p:1458/np:98542] 
+
+2019-08-31 08:38:00 layer: 9
+all data ('acc', 0.9060099963428014)
+[p:313/1:145|n:24296/1:10276] 
+train loss ('acc', 0.905717712914834)
+pass train loss ('acc', 0.8669467787114846)
+pass train loss now ('acc', 0.8402555910543131)
+vaild loss ('acc', 0.5899240303878449)
+pass vaild loss ('acc', 0.5938375350140056)
+pass vaild loss now ('acc', 0.5591054313099042)
+test loss ('acc', 0.62137)
+pass test loss ('acc', 0.6199330606173299)
+pass test loss now ('acc', 0.6108854589764419)
+not pass
+
+2019-08-31 08:38:21 layer: 10
+all data ('acc', 0.9051972855459385)
+[p:306/1:145|n:24303/1:10276] 
+train loss ('acc', 0.9049180327868852)
+pass train loss ('acc', 0.8896746817538896)
+pass train loss now ('acc', 0.8921568627450981)
+vaild loss ('acc', 0.5879648140743703)
+pass vaild loss ('acc', 0.6011315417256011)
+pass vaild loss now ('acc', 0.5751633986928104)
+test loss ('acc', 0.62508)
+pass test loss ('acc', 0.6097959183673469)
+pass test loss now ('acc', 0.5836693548387096)
+not pass
+
+2019-08-31 08:38:42 layer: 11
+all data ('acc', 0.9067008005201349)
+[p:284/1:141|n:24325/1:10280] 
+train loss ('acc', 0.9063974410235905)
+pass train loss ('acc', 0.8598540145985402)
+pass train loss now ('acc', 0.8204225352112676)
+vaild loss ('acc', 0.5832866853258697)
+pass vaild loss ('acc', 0.581021897810219)
+pass vaild loss now ('acc', 0.5246478873239436)
+test loss ('acc', 0.62085)
+pass test loss ('acc', 0.6028072837632777)
+pass test loss now ('acc', 0.5721561969439728)
+not pass
+
+2019-08-31 08:39:03 layer: 12
+all data ('acc', 0.9081230444146451)
+[p:353/1:175|n:24256/1:10246] 
+train loss ('acc', 0.907796881247501)
+pass train loss ('acc', 0.8806366047745358)
+pass train loss now ('acc', 0.8725212464589235)
+vaild loss ('acc', 0.586125549780088)
+pass vaild loss ('acc', 0.5981432360742706)
+pass vaild loss now ('acc', 0.5722379603399433)
+test loss ('acc', 0.62021)
+pass test loss ('acc', 0.6250878425860857)
+pass test loss now ('acc', 0.622478386167147)
+not pass
+
+2019-08-31 08:39:24 layer: 13
+all data ('acc', 0.9062538095818603)
+[p:259/1:137|n:24350/1:10284] 
+train loss ('acc', 0.9059576169532187)
+pass train loss ('acc', 0.8757575757575757)
+pass train loss now ('acc', 0.8571428571428571)
+vaild loss ('acc', 0.5883646541383447)
+pass vaild loss ('acc', 0.6090909090909091)
+pass vaild loss now ('acc', 0.5907335907335908)
+test loss ('acc', 0.62196)
+pass test loss ('acc', 0.6273525721455459)
+pass test loss now ('acc', 0.6270096463022508)
+not pass
+
+2019-08-31 08:39:45 layer: 14
+all data ('acc', 0.9054410987849973)
+[p:373/1:148|n:24236/1:10273] 
+train loss ('acc', 0.9051579368252699)
+pass train loss ('acc', 0.8953488372093024)
+pass train loss now ('acc', 0.903485254691689)
+vaild loss ('acc', 0.581047580967613)
+pass vaild loss ('acc', 0.627906976744186)
+pass vaild loss now ('acc', 0.6353887399463807)
+test loss ('acc', 0.61877)
+pass test loss ('acc', 0.6333333333333333)
+pass test loss now ('acc', 0.6388888888888888)
+not pass
+
+2019-08-31 08:40:06 layer: 15
+all data ('acc', 0.9071071559185664)
+[p:346/1:152|n:24263/1:10269] 
+train loss ('acc', 0.906797281087565)
+pass train loss ('acc', 0.8942436412315931)
+pass train loss now ('acc', 0.9017341040462428)
+vaild loss ('acc', 0.5858056777289085)
+pass vaild loss ('acc', 0.606425702811245)
+pass vaild loss now ('acc', 0.5895953757225434)
+test loss ('acc', 0.62146)
+pass test loss ('acc', 0.6345089903181189)
+pass test loss now ('acc', 0.6415620641562064)
+not pass
+
+2019-08-31 08:40:27 layer: 16
+all data ('acc', 0.9106830834247633)
+[p:283/1:134|n:24326/1:10287] 
+train loss ('acc', 0.9103158736505398)
+pass train loss ('acc', 0.8991228070175439)
+pass train loss now ('acc', 0.9151943462897526)
+vaild loss ('acc', 0.5867253098760495)
+pass vaild loss ('acc', 0.597953216374269)
+pass vaild loss now ('acc', 0.5653710247349824)
+test loss ('acc', 0.62041)
+pass test loss ('acc', 0.6237942122186495)
+pass test loss now ('acc', 0.6184466019417476)
+16 [p:1030/np:97512] 
+
+2019-08-31 08:40:48 layer: 17
+all data ('acc', 0.9045054674011346)
+[p:334/1:162|n:23992/1:10125] 
+train loss ('acc', 0.9043582566973211)
+pass train loss ('acc', 0.881139489194499)
+pass train loss now ('acc', 0.844311377245509)
+vaild loss ('acc', 0.5867253098760495)
+pass vaild loss ('acc', 0.5923379174852652)
+pass vaild loss now ('acc', 0.5808383233532934)
+test loss ('acc', 0.61954)
+pass test loss ('acc', 0.6161772282328697)
+pass test loss now ('acc', 0.6025824964131994)
+not pass
+
+2019-08-31 08:41:09 layer: 18
+all data ('acc', 0.9015456712981994)
+[p:509/1:254|n:23817/1:10033] 
+train loss ('acc', 0.9014794082367054)
+pass train loss ('acc', 0.8826487845766974)
+pass train loss now ('acc', 0.8605108055009824)
+vaild loss ('acc', 0.586765293882447)
+pass vaild loss ('acc', 0.5984911986588433)
+pass vaild loss now ('acc', 0.5992141453831041)
+test loss ('acc', 0.61899)
+pass test loss ('acc', 0.611358574610245)
+pass test loss now ('acc', 0.5959040959040959)
+18 [p:2002/np:95510] 
+
+2019-08-31 08:41:30 layer: 19
+all data ('acc', 0.9114078179451652)
+[p:404/1:224|n:23413/1:9809] 
+train loss ('acc', 0.9100359856057577)
+pass train loss ('acc', 0.8872886662492173)
+pass train loss now ('acc', 0.900990099009901)
+vaild loss ('acc', 0.5913234706117553)
+pass vaild loss ('acc', 0.5973700688791485)
+pass vaild loss now ('acc', 0.594059405940594)
+test loss ('acc', 0.62182)
+pass test loss ('acc', 0.6074318744838976)
+pass test loss now ('acc', 0.5961661341853035)
+19 [p:1565/np:93945] 
+
+2019-08-31 08:41:51 layer: 20
+all data ('acc', 0.9084269422970145)
+[p:241/1:107|n:23172/1:9702] 
+train loss ('acc', 0.907077169132347)
+pass train loss ('acc', 0.8846572361262242)
+pass train loss now ('acc', 0.8672199170124482)
+vaild loss ('acc', 0.5879648140743703)
+pass vaild loss ('acc', 0.5963003264417845)
+pass vaild loss now ('acc', 0.5892116182572614)
+test loss ('acc', 0.61709)
+pass test loss ('acc', 0.6098016671457316)
+pass test loss now ('acc', 0.6256921373200443)
+not pass
+
+2019-08-31 08:42:11 layer: 21
+all data ('acc', 0.9097509930380557)
+[p:608/1:236|n:22805/1:9573] 
+train loss ('acc', 0.9083166733306677)
+pass train loss ('acc', 0.8961451247165533)
+pass train loss now ('acc', 0.9194078947368421)
+vaild loss ('acc', 0.5903238704518192)
+pass vaild loss ('acc', 0.5963718820861678)
+pass vaild loss now ('acc', 0.59375)
+test loss ('acc', 0.62033)
+pass test loss ('acc', 0.6186560150375939)
+pass test loss now ('acc', 0.6463166463166463)
+not pass
+
+2019-08-31 08:42:31 layer: 22
+all data ('acc', 0.9105625080083715)
+[p:322/1:146|n:23091/1:9663] 
+train loss ('acc', 0.9090763694522191)
+pass train loss ('acc', 0.8900468994267848)
+pass train loss now ('acc', 0.9037267080745341)
+vaild loss ('acc', 0.5912435025989604)
+pass vaild loss ('acc', 0.5982282438770192)
+pass vaild loss now ('acc', 0.6024844720496895)
+test loss ('acc', 0.62101)
+pass test loss ('acc', 0.6137977227059611)
+pass test loss now ('acc', 0.6411347517730497)
+not pass
+
+2019-08-31 08:42:52 layer: 23
+all data ('acc', 0.9107760645795071)
+[p:671/1:248|n:22742/1:9561] 
+train loss ('acc', 0.9092762894842064)
+pass train loss ('acc', 0.8955026455026455)
+pass train loss now ('acc', 0.9150521609538003)
+vaild loss ('acc', 0.5889244302279089)
+pass vaild loss ('acc', 0.5952380952380952)
+pass vaild loss now ('acc', 0.5901639344262295)
+test loss ('acc', 0.61812)
+pass test loss ('acc', 0.6152974504249292)
+pass test loss now ('acc', 0.6324909747292419)
+not pass
+
+2019-08-31 08:43:12 layer: 24
+all data ('acc', 0.9102208174945543)
+[p:239/1:117|n:23174/1:9692] 
+train loss ('acc', 0.9087564974010396)
+pass train loss ('acc', 0.8883442265795207)
+pass train loss now ('acc', 0.895397489539749)
+vaild loss ('acc', 0.5904838064774091)
+pass vaild loss ('acc', 0.5920479302832244)
+pass vaild loss now ('acc', 0.5564853556485355)
+test loss ('acc', 0.62029)
+pass test loss ('acc', 0.6116173120728929)
+pass test loss now ('acc', 0.6377708978328174)
+not pass
+
+2019-08-31 08:43:33 layer: 25
+all data ('acc', 0.9100499722376457)
+[p:271/1:118|n:23142/1:9691] 
+train loss ('acc', 0.9085965613754499)
+pass train loss ('acc', 0.8886509635974305)
+pass train loss now ('acc', 0.8966789667896679)
+vaild loss ('acc', 0.5876849260295882)
+pass vaild loss ('acc', 0.5979657387580299)
+pass vaild loss now ('acc', 0.6014760147601476)
+test loss ('acc', 0.61871)
+pass test loss ('acc', 0.6075444839857651)
+pass test loss now ('acc', 0.6082474226804123)
+not pass
+
+2019-08-31 08:43:53 layer: 26
+all data ('acc', 0.9105625080083715)
+[p:468/1:224|n:22945/1:9585] 
+train loss ('acc', 0.9090763694522191)
+pass train loss ('acc', 0.8789346246973365)
+pass train loss now ('acc', 0.8504273504273504)
+vaild loss ('acc', 0.5897241103558577)
+pass vaild loss ('acc', 0.5961259079903147)
+pass vaild loss now ('acc', 0.5918803418803419)
+test loss ('acc', 0.6197)
+pass test loss ('acc', 0.6069095477386934)
+pass test loss now ('acc', 0.605249343832021)
+not pass
+
+2019-08-31 08:44:14 layer: 27
+all data ('acc', 0.9089394780677401)
+[p:291/1:147|n:23122/1:9662] 
+train loss ('acc', 0.9075569772091163)
+pass train loss ('acc', 0.8840042372881356)
+pass train loss now ('acc', 0.865979381443299)
+vaild loss ('acc', 0.586045581767293)
+pass vaild loss ('acc', 0.590572033898305)
+pass vaild loss now ('acc', 0.5532646048109966)
+test loss ('acc', 0.61725)
+pass test loss ('acc', 0.6063640104238102)
+pass test loss now ('acc', 0.6011326860841424)
+not pass
+
+2019-08-31 08:44:35 layer: 28
+all data ('acc', 0.9092384572673301)
+[p:573/1:274|n:22840/1:9535] 
+train loss ('acc', 0.9078368652538984)
+pass train loss ('acc', 0.8783410138248848)
+pass train loss now ('acc', 0.8534031413612565)
+vaild loss ('acc', 0.587405037984806)
+pass vaild loss ('acc', 0.5935483870967742)
+pass vaild loss now ('acc', 0.5828970331588132)
+test loss ('acc', 0.62075)
+pass test loss ('acc', 0.6194606154211715)
+pass test loss now ('acc', 0.6502963590177815)
+not pass
+
+2019-08-31 08:44:56 layer: 29
+all data ('acc', 0.9094520138384659)
+[p:252/1:99|n:23161/1:9710] 
+train loss ('acc', 0.9080367852858856)
+pass train loss ('acc', 0.8918334234721471)
+pass train loss now ('acc', 0.9206349206349206)
+vaild loss ('acc', 0.5877249100359856)
+pass vaild loss ('acc', 0.5987020010816657)
+pass vaild loss now ('acc', 0.6071428571428571)
+test loss ('acc', 0.61918)
+pass test loss ('acc', 0.6130252100840337)
+pass test loss now ('acc', 0.6442396313364055)
+not pass
+
+2019-08-31 08:45:17 layer: 30
+all data ('acc', 0.9094520138384659)
+[p:245/1:97|n:23168/1:9712] 
+train loss ('acc', 0.9080367852858856)
+pass train loss ('acc', 0.8870792616720955)
+pass train loss now ('acc', 0.8857142857142857)
+vaild loss ('acc', 0.590203918432627)
+pass vaild loss ('acc', 0.5950054288816504)
+pass vaild loss now ('acc', 0.5795918367346938)
+test loss ('acc', 0.61905)
+pass test loss ('acc', 0.6162476920891918)
+pass test loss now ('acc', 0.6703853955375254)
+not pass
+
+2019-08-31 08:45:38 layer: 31
+all data ('acc', 0.9105625080083715)
+[p:299/1:142|n:23114/1:9667] 
+train loss ('acc', 0.9090763694522191)
+pass train loss ('acc', 0.8823839662447257)
+pass train loss now ('acc', 0.8561872909698997)
+vaild loss ('acc', 0.5875649740103959)
+pass vaild loss ('acc', 0.5901898734177216)
+pass vaild loss now ('acc', 0.5518394648829431)
+test loss ('acc', 0.6177)
+pass test loss ('acc', 0.6057492014997917)
+pass test loss now ('acc', 0.5968586387434555)
+not pass
+
+2019-08-31 08:45:59 layer: 32
+all data ('acc', 0.9106052193225985)
+[p:346/1:149|n:23067/1:9660] 
+train loss ('acc', 0.9091163534586165)
+pass train loss ('acc', 0.8872876994338652)
+pass train loss now ('acc', 0.8872832369942196)
+vaild loss ('acc', 0.5856057576969212)
+pass vaild loss ('acc', 0.5898095728255275)
+pass vaild loss now ('acc', 0.5549132947976878)
+test loss ('acc', 0.61794)
+pass test loss ('acc', 0.608982116444803)
+pass test loss now ('acc', 0.6157742402315485)
+not pass
+
+2019-08-31 08:46:19 layer: 33
+all data ('acc', 0.9111604664075513)
+[p:286/1:133|n:23127/1:9676] 
+train loss ('acc', 0.9096361455417833)
+pass train loss ('acc', 0.8847583643122676)
+pass train loss now ('acc', 0.8706293706293706)
+vaild loss ('acc', 0.586765293882447)
+pass vaild loss ('acc', 0.5937334041423261)
+pass vaild loss now ('acc', 0.5734265734265734)
+test loss ('acc', 0.61854)
+pass test loss ('acc', 0.6088833194096352)
+pass test loss now ('acc', 0.616681455190772)
+not pass
+
+2019-08-31 08:46:40 layer: 34
+all data ('acc', 0.9103916627514629)
+[p:249/1:96|n:23164/1:9713] 
+train loss ('acc', 0.9089164334266293)
+pass train loss ('acc', 0.8921993499458288)
+pass train loss now ('acc', 0.9236947791164659)
+vaild loss ('acc', 0.5909636145541783)
+pass vaild loss ('acc', 0.6007583965330444)
+pass vaild loss now ('acc', 0.6224899598393574)
+test loss ('acc', 0.61822)
+pass test loss ('acc', 0.6081312410841655)
+pass test loss now ('acc', 0.612565445026178)
+not pass
+
+2019-08-31 08:47:01 layer: 35
+all data ('acc', 0.9097082817238287)
+[p:480/1:199|n:22933/1:9610] 
+train loss ('acc', 0.9082766893242703)
+pass train loss ('acc', 0.8926336061627347)
+pass train loss now ('acc', 0.9104166666666667)
+vaild loss ('acc', 0.5888844462215114)
+pass vaild loss ('acc', 0.5955705344246509)
+pass vaild loss now ('acc', 0.5895833333333333)
+test loss ('acc', 0.6183)
+pass test loss ('acc', 0.6143864953388762)
+pass test loss now ('acc', 0.6367498672331386)
+not pass
+
+2019-08-31 08:47:22 layer: 36
+all data ('acc', 0.9098364156665101)
+[p:422/1:173|n:22991/1:9636] 
+train loss ('acc', 0.9083966413434627)
+pass train loss ('acc', 0.8910351659237247)
+pass train loss now ('acc', 0.9052132701421801)
+vaild loss ('acc', 0.5884446221511396)
+pass vaild loss ('acc', 0.5923724616146607)
+pass vaild loss now ('acc', 0.5734597156398105)
+test loss ('acc', 0.62077)
+pass test loss ('acc', 0.6198969978645898)
+pass test loss now ('acc', 0.6594963273871983)
+not pass
+
+2019-08-31 08:47:43 layer: 37
+all data ('acc', 0.9109896211506429)
+[p:323/1:130|n:23090/1:9679] 
+train loss ('acc', 0.9094762095161936)
+pass train loss ('acc', 0.8875)
+pass train loss now ('acc', 0.8885448916408669)
+vaild loss ('acc', 0.588764494202319)
+pass vaild loss ('acc', 0.5984375)
+pass vaild loss now ('acc', 0.6037151702786377)
+test loss ('acc', 0.61923)
+pass test loss ('acc', 0.6109974075590121)
+pass test loss now ('acc', 0.6279434850863422)
+not pass
+
+2019-08-31 08:48:04 layer: 38
+all data ('acc', 0.9101781061803271)
+[p:244/1:133|n:23169/1:9676] 
+train loss ('acc', 0.9087165133946421)
+pass train loss ('acc', 0.8875611080934275)
+pass train loss now ('acc', 0.889344262295082)
+vaild loss ('acc', 0.5914034386245501)
+pass vaild loss ('acc', 0.5985877240630092)
+pass vaild loss now ('acc', 0.6065573770491803)
+test loss ('acc', 0.62152)
+pass test loss ('acc', 0.6039210115073164)
+pass test loss now ('acc', 0.5823170731707317)
+38 [p:984/np:92961] 
+
+2019-08-31 08:48:24 layer: 39
+all data ('acc', 0.9054339850662523)
+[p:475/1:182|n:22694/1:9494] 
+train loss ('acc', 0.9041183526589365)
+pass train loss ('acc', 0.8898963730569949)
+pass train loss now ('acc', 0.8989473684210526)
+vaild loss ('acc', 0.586045581767293)
+pass vaild loss ('acc', 0.5988773747841105)
+pass vaild loss now ('acc', 0.6)
+test loss ('acc', 0.61664)
+pass test loss ('acc', 0.6048128932553262)
+pass test loss now ('acc', 0.6079207920792079)
+not pass
+
+2019-08-31 08:48:46 layer: 40
+all data ('acc', 0.9100090638352971)
+[p:301/1:127|n:22868/1:9549] 
+train loss ('acc', 0.9083566573370652)
+pass train loss ('acc', 0.8879551820728291)
+pass train loss now ('acc', 0.8903654485049833)
+vaild loss ('acc', 0.5873250699720112)
+pass vaild loss ('acc', 0.5952380952380952)
+pass vaild loss now ('acc', 0.574750830564784)
+test loss ('acc', 0.6196)
+pass test loss ('acc', 0.6074990986660257)
+pass test loss now ('acc', 0.6271450858034321)
+not pass
+
+2019-08-31 08:49:06 layer: 41
+all data ('acc', 0.90893003582373)
+[p:332/1:146|n:22837/1:9530] 
+train loss ('acc', 0.9073570571771291)
+pass train loss ('acc', 0.8858720662678324)
+pass train loss now ('acc', 0.8765060240963856)
+vaild loss ('acc', 0.5880447820871652)
+pass vaild loss ('acc', 0.5908881730326737)
+pass vaild loss now ('acc', 0.5481927710843374)
+test loss ('acc', 0.62004)
+pass test loss ('acc', 0.6060137865462325)
+pass test loss now ('acc', 0.6167272727272727)
+not pass
+
+2019-08-31 08:49:27 layer: 42
+all data ('acc', 0.9082826190167896)
+[p:607/1:280|n:22562/1:9396] 
+train loss ('acc', 0.9067572970811675)
+pass train loss ('acc', 0.8811274509803921)
+pass train loss now ('acc', 0.8616144975288303)
+vaild loss ('acc', 0.5846461415433827)
+pass vaild loss ('acc', 0.5796568627450981)
+pass vaild loss now ('acc', 0.5222405271828665)
+test loss ('acc', 0.61757)
+pass test loss ('acc', 0.5965194972607154)
+pass test loss now ('acc', 0.573568281938326)
+not pass
+
+2019-08-31 08:49:48 layer: 43
+all data ('acc', 0.9100090638352971)
+[p:261/1:121|n:22908/1:9555] 
+train loss ('acc', 0.9083566573370652)
+pass train loss ('acc', 0.8934348239771646)
+pass train loss now ('acc', 0.9348659003831418)
+vaild loss ('acc', 0.5841663334666134)
+pass vaild loss ('acc', 0.5932445290199809)
+pass vaild loss now ('acc', 0.5555555555555556)
+test loss ('acc', 0.61999)
+pass test loss ('acc', 0.6075980695458483)
+pass test loss now ('acc', 0.6324376199616123)
+not pass
+
+2019-08-31 08:50:09 layer: 44
+all data ('acc', 0.9100522249557599)
+[p:238/1:111|n:22931/1:9565] 
+train loss ('acc', 0.9083966413434627)
+pass train loss ('acc', 0.8807118807118807)
+pass train loss now ('acc', 0.8277310924369747)
+vaild loss ('acc', 0.5872451019592163)
+pass vaild loss ('acc', 0.5887445887445888)
+pass vaild loss now ('acc', 0.5126050420168067)
+test loss ('acc', 0.6195)
+pass test loss ('acc', 0.6032245874795314)
+pass test loss now ('acc', 0.5977777777777777)
+not pass
+
+2019-08-31 08:50:30 layer: 45
+all data ('acc', 0.90603824075273)
+[p:260/1:117|n:22909/1:9559] 
+train loss ('acc', 0.9046781287485006)
+pass train loss ('acc', 0.8738695859114707)
+pass train loss now ('acc', 0.7769230769230769)
+vaild loss ('acc', 0.5845661735305878)
+pass vaild loss ('acc', 0.589719181342218)
+pass vaild loss now ('acc', 0.5269230769230769)
+test loss ('acc', 0.61837)
+pass test loss ('acc', 0.6001985357984861)
+pass test loss now ('acc', 0.5745098039215686)
+not pass
+
+2019-08-31 08:50:51 layer: 46
+all data ('acc', 0.9088437135828046)
+[p:420/1:200|n:22749/1:9476] 
+train loss ('acc', 0.9072770891643342)
+pass train loss ('acc', 0.8920831490490934)
+pass train loss now ('acc', 0.9119047619047619)
+vaild loss ('acc', 0.5837265093962415)
+pass vaild loss ('acc', 0.5877930119416187)
+pass vaild loss now ('acc', 0.5404761904761904)
+test loss ('acc', 0.6187)
+pass test loss ('acc', 0.6051087331722471)
+pass test loss now ('acc', 0.6101694915254238)
+not pass
+
+2019-08-31 08:51:12 layer: 47
+all data ('acc', 0.9081962967758643)
+[p:256/1:119|n:22913/1:9557] 
+train loss ('acc', 0.9066773290683726)
+pass train loss ('acc', 0.8922269909394372)
+pass train loss now ('acc', 0.92578125)
+vaild loss ('acc', 0.5867253098760495)
+pass vaild loss ('acc', 0.5941821649976157)
+pass vaild loss now ('acc', 0.5625)
+test loss ('acc', 0.61625)
+pass test loss ('acc', 0.6041823190583521)
+pass test loss now ('acc', 0.6061246040126715)
+not pass
+
+2019-08-31 08:51:33 layer: 48
+all data ('acc', 0.90893003582373)
+[p:359/1:156|n:22810/1:9520] 
+train loss ('acc', 0.9073570571771291)
+pass train loss ('acc', 0.8886363636363637)
+pass train loss now ('acc', 0.8941504178272981)
+vaild loss ('acc', 0.5832866853258697)
+pass vaild loss ('acc', 0.5940909090909091)
+pass vaild loss now ('acc', 0.5710306406685237)
+test loss ('acc', 0.61878)
+pass test loss ('acc', 0.6038003068570754)
+pass test loss now ('acc', 0.6032078103207811)
+not pass
+
+2019-08-31 08:51:54 layer: 49
+all data ('acc', 0.9091026803055807)
+[p:504/1:237|n:22665/1:9439] 
+train loss ('acc', 0.907516993202719)
+pass train loss ('acc', 0.8904051172707889)
+pass train loss now ('acc', 0.9007936507936508)
+vaild loss ('acc', 0.5866053578568573)
+pass vaild loss ('acc', 0.5914712153518124)
+pass vaild loss now ('acc', 0.5654761904761905)
+test loss ('acc', 0.6178)
+pass test loss ('acc', 0.6053851246965349)
+pass test loss now ('acc', 0.6104794859120118)
+not pass
+
+2019-08-31 08:52:15 layer: 50
+all data ('acc', 0.9083689412577151)
+[p:425/1:211|n:22744/1:9465] 
+train loss ('acc', 0.9068372650939625)
+pass train loss ('acc', 0.8746690203000883)
+pass train loss now ('acc', 0.8188235294117647)
+vaild loss ('acc', 0.5866853258696522)
+pass vaild loss ('acc', 0.589143865842895)
+pass vaild loss now ('acc', 0.548235294117647)
+test loss ('acc', 0.6201)
+pass test loss ('acc', 0.600647473696381)
+pass test loss now ('acc', 0.5863354037267081)
+not pass
+
+2019-08-31 08:52:35 layer: 51
+all data ('acc', 0.9100522249557599)
+[p:256/1:128|n:22913/1:9548] 
+train loss ('acc', 0.9083966413434627)
+pass train loss ('acc', 0.8812589413447782)
+pass train loss now ('acc', 0.8359375)
+vaild loss ('acc', 0.585405837664934)
+pass vaild loss ('acc', 0.5927515498330949)
+pass vaild loss now ('acc', 0.55078125)
+test loss ('acc', 0.61838)
+pass test loss ('acc', 0.606269592476489)
+pass test loss now ('acc', 0.6239316239316239)
+not pass
+
+2019-08-31 08:52:56 layer: 52
+all data ('acc', 0.9068151409210583)
+[p:278/1:110|n:22891/1:9566] 
+train loss ('acc', 0.9053978408636545)
+pass train loss ('acc', 0.8919301557338367)
+pass train loss now ('acc', 0.920863309352518)
+vaild loss ('acc', 0.5850059976009596)
+pass vaild loss ('acc', 0.5960358659745163)
+pass vaild loss now ('acc', 0.579136690647482)
+test loss ('acc', 0.61838)
+pass test loss ('acc', 0.6055652607936112)
+pass test loss now ('acc', 0.6174358974358974)
+not pass
+
+2019-08-31 08:53:17 layer: 53
+all data ('acc', 0.9075920410893866)
+[p:285/1:137|n:22884/1:9539] 
+train loss ('acc', 0.9061175529788085)
+pass train loss ('acc', 0.8894637817497648)
+pass train loss now ('acc', 0.9017543859649123)
+vaild loss ('acc', 0.5851659336265493)
+pass vaild loss ('acc', 0.6001881467544685)
+pass vaild loss now ('acc', 0.6105263157894737)
+test loss ('acc', 0.61735)
+pass test loss ('acc', 0.6061459353574926)
+pass test loss now ('acc', 0.6200177147918512)
+not pass
+
+2019-08-31 08:53:37 layer: 54
+all data ('acc', 0.9084984246191031)
+[p:360/1:160|n:22809/1:9516] 
+train loss ('acc', 0.9069572171131547)
+pass train loss ('acc', 0.8818718764198091)
+pass train loss now ('acc', 0.8527777777777777)
+vaild loss ('acc', 0.5879648140743703)
+pass vaild loss ('acc', 0.5897319400272604)
+pass vaild loss now ('acc', 0.5444444444444444)
+test loss ('acc', 0.61986)
+pass test loss ('acc', 0.6037735849056604)
+pass test loss now ('acc', 0.6030789825970548)
+not pass
+
+2019-08-31 08:53:58 layer: 55
+all data ('acc', 0.9087573913418793)
+[p:283/1:124|n:22886/1:9552] 
+train loss ('acc', 0.9071971211515394)
+pass train loss ('acc', 0.8935969868173258)
+pass train loss now ('acc', 0.9328621908127208)
+vaild loss ('acc', 0.5886445421831268)
+pass vaild loss ('acc', 0.5951035781544256)
+pass vaild loss now ('acc', 0.5724381625441696)
+test loss ('acc', 0.6181)
+pass test loss ('acc', 0.6078549848942598)
+pass test loss now ('acc', 0.6302588996763754)
+not pass
+
+2019-08-31 08:54:18 layer: 56
+all data ('acc', 0.9071172687642971)
+[p:297/1:136|n:22872/1:9540] 
+train loss ('acc', 0.9056777289084367)
+pass train loss ('acc', 0.882600561272217)
+pass train loss now ('acc', 0.8518518518518519)
+vaild loss ('acc', 0.5858856457417033)
+pass vaild loss ('acc', 0.5907390084190832)
+pass vaild loss now ('acc', 0.5420875420875421)
+test loss ('acc', 0.61804)
+pass test loss ('acc', 0.6066756327179362)
+pass test loss now ('acc', 0.6236842105263158)
+not pass
+
+2019-08-31 08:54:39 layer: 57
+all data ('acc', 0.9098795804739092)
+[p:432/1:204|n:22737/1:9472] 
+train loss ('acc', 0.9082367053178728)
+pass train loss ('acc', 0.8798944126704795)
+pass train loss now ('acc', 0.8472222222222222)
+vaild loss ('acc', 0.5848460615753699)
+pass vaild loss ('acc', 0.5921689397272327)
+pass vaild loss now ('acc', 0.5648148148148148)
+test loss ('acc', 0.61761)
+pass test loss ('acc', 0.6019540229885058)
+pass test loss now ('acc', 0.5936183022275737)
+not pass
+
+2019-08-31 08:54:59 layer: 58
+all data ('acc', 0.9078078466917001)
+[p:240/1:111|n:22929/1:9565] 
+train loss ('acc', 0.9063174730107957)
+pass train loss ('acc', 0.8861124459394522)
+pass train loss now ('acc', 0.875)
+vaild loss ('acc', 0.588764494202319)
+pass vaild loss ('acc', 0.5862566074002883)
+pass vaild loss now ('acc', 0.49166666666666664)
+test loss ('acc', 0.61799)
+pass test loss ('acc', 0.6056373160389125)
+pass test loss now ('acc', 0.6179775280898876)
+not pass
+
+2019-08-31 08:55:20 layer: 59
+all data ('acc', 0.910440675039924)
+[p:414/1:199|n:22755/1:9477] 
+train loss ('acc', 0.9087564974010396)
+pass train loss ('acc', 0.8789356984478935)
+pass train loss now ('acc', 0.8405797101449275)
+vaild loss ('acc', 0.5855657736905238)
+pass vaild loss ('acc', 0.5866962305986696)
+pass vaild loss now ('acc', 0.533816425120773)
+test loss ('acc', 0.62079)
+pass test loss ('acc', 0.6001613646841862)
+pass test loss now ('acc', 0.5839951130116066)
+not pass
+
+2019-08-31 08:55:40 layer: 60
+all data ('acc', 0.9087573913418793)
+[p:296/1:142|n:22873/1:9534] 
+train loss ('acc', 0.9071971211515394)
+pass train loss ('acc', 0.8909686476368741)
+pass train loss now ('acc', 0.9121621621621622)
+vaild loss ('acc', 0.5836465413834466)
+pass vaild loss ('acc', 0.598034627983154)
+pass vaild loss now ('acc', 0.5945945945945946)
+test loss ('acc', 0.6183)
+pass test loss ('acc', 0.6023757041391133)
+pass test loss now ('acc', 0.5927240461401952)
+not pass
+
+2019-08-31 08:56:01 layer: 61
+all data ('acc', 0.9092321636669688)
+[p:388/1:188|n:22781/1:9488] 
+train loss ('acc', 0.9076369452219112)
+pass train loss ('acc', 0.876626289816061)
+pass train loss now ('acc', 0.8247422680412371)
+vaild loss ('acc', 0.5876849260295882)
+pass vaild loss ('acc', 0.5836698070883805)
+pass vaild loss now ('acc', 0.5128865979381443)
+test loss ('acc', 0.61875)
+pass test loss ('acc', 0.6009857997887572)
+pass test loss now ('acc', 0.5870445344129555)
+not pass
+
+2019-08-31 08:56:21 layer: 62
+all data ('acc', 0.910311191678536)
+[p:535/1:271|n:22634/1:9405] 
+train loss ('acc', 0.9086365453818472)
+pass train loss ('acc', 0.8825757575757576)
+pass train loss now ('acc', 0.8654205607476636)
+vaild loss ('acc', 0.5883246701319472)
+pass vaild loss ('acc', 0.5820707070707071)
+pass vaild loss now ('acc', 0.525233644859813)
+test loss ('acc', 0.61947)
+pass test loss ('acc', 0.6028608866564752)
+pass test loss now ('acc', 0.5993393109957527)
+not pass
+
+2019-08-31 08:56:42 layer: 63
+all data ('acc', 0.9076352022098494)
+[p:344/1:165|n:22825/1:9511] 
+train loss ('acc', 0.906157536985206)
+pass train loss ('acc', 0.8897025171624714)
+pass train loss now ('acc', 0.9011627906976745)
+vaild loss ('acc', 0.5864454218312675)
+pass vaild loss ('acc', 0.5935926773455378)
+pass vaild loss now ('acc', 0.5668604651162791)
+test loss ('acc', 0.61984)
+pass test loss ('acc', 0.6)
+pass test loss now ('acc', 0.5810439560439561)
+not pass
+
+2019-08-31 08:57:02 layer: 64
+all data ('acc', 0.9078510078121628)
+[p:330/1:128|n:22839/1:9548] 
+train loss ('acc', 0.9063574570171932)
+pass train loss ('acc', 0.889912482726854)
+pass train loss now ('acc', 0.9030303030303031)
+vaild loss ('acc', 0.5867253098760495)
+pass vaild loss ('acc', 0.6011054813450023)
+pass vaild loss now ('acc', 0.6151515151515151)
+test loss ('acc', 0.61894)
+pass test loss ('acc', 0.6070867093965413)
+pass test loss now ('acc', 0.6252032520325204)
+not pass
+
+2019-08-31 08:57:23 layer: 65
+all data ('acc', 0.9088437135828046)
+[p:590/1:269|n:22579/1:9407] 
+train loss ('acc', 0.9072770891643342)
+pass train loss ('acc', 0.8877005347593583)
+pass train loss now ('acc', 0.888135593220339)
+vaild loss ('acc', 0.5849660135945621)
+pass vaild loss ('acc', 0.5878239407651172)
+pass vaild loss now ('acc', 0.5542372881355933)
+test loss ('acc', 0.61916)
+pass test loss ('acc', 0.6004087340002151)
+pass test loss now ('acc', 0.5894596988485385)
+not pass
+
+2019-08-31 08:57:43 layer: 66
+all data ('acc', 0.9084552634986405)
+[p:241/1:128|n:22928/1:9548] 
+train loss ('acc', 0.9069172331067573)
+pass train loss ('acc', 0.8928914505283382)
+pass train loss now ('acc', 0.9336099585062241)
+vaild loss ('acc', 0.5852858856457417)
+pass vaild loss ('acc', 0.595581171950048)
+pass vaild loss now ('acc', 0.5726141078838174)
+test loss ('acc', 0.61941)
+pass test loss ('acc', 0.6032669224105928)
+pass test loss now ('acc', 0.5988483685220729)
+not pass
+
+2019-08-31 08:58:04 layer: 67
+all data ('acc', 0.9081531356554016)
+[p:448/1:190|n:22721/1:9486] 
+train loss ('acc', 0.9066373450619752)
+pass train loss ('acc', 0.892092616863259)
+pass train loss now ('acc', 0.9107142857142857)
+vaild loss ('acc', 0.585765693722511)
+pass vaild loss ('acc', 0.582787243337702)
+pass vaild loss now ('acc', 0.5178571428571429)
+test loss ('acc', 0.62039)
+pass test loss ('acc', 0.6068138941293975)
+pass test loss now ('acc', 0.6171399594320487)
+not pass
+
+2019-08-31 08:58:25 layer: 68
+all data ('acc', 0.9097932582329837)
+[p:695/1:313|n:22474/1:9363] 
+train loss ('acc', 0.908156737305078)
+pass train loss ('acc', 0.8958990536277602)
+pass train loss now ('acc', 0.9179856115107914)
+vaild loss ('acc', 0.5855257896841264)
+pass vaild loss ('acc', 0.5926656151419558)
+pass vaild loss now ('acc', 0.576978417266187)
+test loss ('acc', 0.61524)
+pass test loss ('acc', 0.6095112553234638)
+pass test loss now ('acc', 0.6234502302515055)
+not pass
+
+2019-08-31 08:58:45 layer: 69
+all data ('acc', 0.9086279079804912)
+[p:271/1:136|n:22898/1:9540] 
+train loss ('acc', 0.907077169132347)
+pass train loss ('acc', 0.8783143939393939)
+pass train loss now ('acc', 0.8154981549815498)
+vaild loss ('acc', 0.5871651339464214)
+pass vaild loss ('acc', 0.5899621212121212)
+pass vaild loss now ('acc', 0.5313653136531366)
+test loss ('acc', 0.61912)
+pass test loss ('acc', 0.5987913172175628)
+pass test loss now ('acc', 0.5650140318054256)
+not pass
+
+2019-08-31 08:59:06 layer: 70
+all data ('acc', 0.9084552634986405)
+[p:542/1:270|n:22627/1:9406] 
+train loss ('acc', 0.9069172331067573)
+pass train loss ('acc', 0.8673940411246328)
+pass train loss now ('acc', 0.7988929889298892)
+vaild loss ('acc', 0.588764494202319)
+pass vaild loss ('acc', 0.5841376416281997)
+pass vaild loss now ('acc', 0.5350553505535055)
+test loss ('acc', 0.61882)
+pass test loss ('acc', 0.5974437404413371)
+pass test loss now ('acc', 0.5758865248226951)
+not pass
+
+2019-08-31 08:59:26 layer: 71
+all data ('acc', 0.9072467521256852)
+[p:248/1:121|n:22921/1:9555] 
+train loss ('acc', 0.9057976809276289)
+pass train loss ('acc', 0.8855911919578746)
+pass train loss now ('acc', 0.8709677419354839)
+vaild loss ('acc', 0.5872850859656138)
+pass vaild loss ('acc', 0.5964576352321685)
+pass vaild loss now ('acc', 0.5806451612903226)
+test loss ('acc', 0.6197)
+pass test loss ('acc', 0.6039690464303544)
+pass test loss now ('acc', 0.60431654676259)
+not pass
+
+2019-08-31 08:59:47 layer: 72
+all data ('acc', 0.9107859640036255)
+[p:238/1:97|n:22931/1:9579] 
+train loss ('acc', 0.9090763694522191)
+pass train loss ('acc', 0.8903318903318903)
+pass train loss now ('acc', 0.9117647058823529)
+vaild loss ('acc', 0.586045581767293)
+pass vaild loss ('acc', 0.596921596921597)
+pass vaild loss now ('acc', 0.5840336134453782)
+test loss ('acc', 0.6186)
+pass test loss ('acc', 0.5993561966076514)
+pass test loss now ('acc', 0.5684007707129094)
+72 [p:1038/np:91923] 
+
+2019-08-31 09:00:08 layer: 73
+all data ('acc', 0.9060224150713009)
+[p:251/1:94|n:22680/1:9485] 
+train loss ('acc', 0.904718112754898)
+pass train loss ('acc', 0.8914163090128755)
+pass train loss now ('acc', 0.900398406374502)
+vaild loss ('acc', 0.587125149940024)
+pass vaild loss ('acc', 0.5974248927038627)
+pass vaild loss now ('acc', 0.601593625498008)
+test loss ('acc', 0.61654)
+pass test loss ('acc', 0.6036632461657288)
+pass test loss now ('acc', 0.6389452332657201)
+73 [p:986/np:90937] 
+
+2019-08-31 09:00:28 layer: 74
+all data ('acc', 0.9112433862433862)
+[p:345/1:171|n:22335/1:9314] 
+train loss ('acc', 0.9093962415033986)
+pass train loss ('acc', 0.8927102803738318)
+pass train loss now ('acc', 0.9014492753623189)
+vaild loss ('acc', 0.5882846861255497)
+pass vaild loss ('acc', 0.5932710280373832)
+pass vaild loss now ('acc', 0.5652173913043478)
+test loss ('acc', 0.61585)
+pass test loss ('acc', 0.6036036036036037)
+pass test loss now ('acc', 0.6032093362509118)
+not pass
+
+2019-08-31 09:00:48 layer: 75
+all data ('acc', 0.9123456790123456)
+[p:912/1:432|n:21768/1:9053] 
+train loss ('acc', 0.9103958416633346)
+pass train loss ('acc', 0.8840222085132634)
+pass train loss now ('acc', 0.8651315789473685)
+vaild loss ('acc', 0.5910835665733707)
+pass vaild loss ('acc', 0.580814312152992)
+pass vaild loss now ('acc', 0.5383771929824561)
+test loss ('acc', 0.61872)
+pass test loss ('acc', 0.6008630835621812)
+pass test loss now ('acc', 0.5939706681151548)
+not pass
+
+2019-08-31 09:01:08 layer: 76
+all data ('acc', 0.9144620811287478)
+[p:374/1:175|n:22306/1:9310] 
+train loss ('acc', 0.9123150739704118)
+pass train loss ('acc', 0.8942307692307693)
+pass train loss now ('acc', 0.9117647058823529)
+vaild loss ('acc', 0.5906837265093963)
+pass vaild loss ('acc', 0.5950443786982249)
+pass vaild loss now ('acc', 0.5802139037433155)
+test loss ('acc', 0.61751)
+pass test loss ('acc', 0.601246694370986)
+pass test loss now ('acc', 0.5868852459016394)
+not pass
+
+2019-08-31 09:01:28 layer: 77
+all data ('acc', 0.9113756613756614)
+[p:407/1:209|n:22273/1:9276] 
+train loss ('acc', 0.9095161935225909)
+pass train loss ('acc', 0.8834490317866277)
+pass train loss now ('acc', 0.8378378378378378)
+vaild loss ('acc', 0.5919232307077169)
+pass vaild loss ('acc', 0.5926196565582755)
+pass vaild loss now ('acc', 0.5651105651105651)
+test loss ('acc', 0.6167)
+pass test loss ('acc', 0.6025061239871867)
+pass test loss now ('acc', 0.5957446808510638)
+not pass
+
+2019-08-31 09:01:48 layer: 78
+all data ('acc', 0.9119488536155202)
+[p:269/1:122|n:22411/1:9363] 
+train loss ('acc', 0.9100359856057577)
+pass train loss ('acc', 0.8814928818776453)
+pass train loss now ('acc', 0.7955390334572491)
+vaild loss ('acc', 0.5885645741703319)
+pass vaild loss ('acc', 0.5944594074644094)
+pass vaild loss now ('acc', 0.5687732342007435)
+test loss ('acc', 0.61817)
+pass test loss ('acc', 0.6041314927003675)
+pass test loss now ('acc', 0.6083499005964215)
+not pass
+
+2019-08-31 09:02:08 layer: 79
+all data ('acc', 0.911331569664903)
+[p:234/1:99|n:22446/1:9386] 
+train loss ('acc', 0.9094762095161936)
+pass train loss ('acc', 0.8923556942277691)
+pass train loss now ('acc', 0.9017094017094017)
+vaild loss ('acc', 0.5872850859656138)
+pass vaild loss ('acc', 0.6002340093603744)
+pass vaild loss now ('acc', 0.6282051282051282)
+test loss ('acc', 0.61691)
+pass test loss ('acc', 0.6055304172951231)
+pass test loss now ('acc', 0.6247165532879818)
+79 [p:882/np:90055] 
+
+2019-08-31 09:02:29 layer: 80
+all data ('acc', 0.9060857168315067)
+[p:503/1:251|n:21943/1:9135] 
+train loss ('acc', 0.9046781287485006)
+pass train loss ('acc', 0.8835996087381807)
+pass train loss now ('acc', 0.8389662027833003)
+vaild loss ('acc', 0.5847261095561775)
+pass vaild loss ('acc', 0.589827192696446)
+pass vaild loss now ('acc', 0.536779324055666)
+test loss ('acc', 0.61493)
+pass test loss ('acc', 0.6019929660023446)
+pass test loss now ('acc', 0.5843765648472709)
+not pass
+
+2019-08-31 09:02:49 layer: 81
+all data ('acc', 0.9085360420564912)
+[p:237/1:118|n:22209/1:9268] 
+train loss ('acc', 0.9068772491003598)
+pass train loss ('acc', 0.8850410567654409)
+pass train loss now ('acc', 0.8059071729957806)
+vaild loss ('acc', 0.5847261095561775)
+pass vaild loss ('acc', 0.5955016065690825)
+pass vaild loss now ('acc', 0.5443037974683544)
+test loss ('acc', 0.61559)
+pass test loss ('acc', 0.6026374031722611)
+pass test loss now ('acc', 0.5706340378197998)
+not pass
+
+2019-08-31 09:03:09 layer: 82
+all data ('acc', 0.9103626481332977)
+[p:283/1:141|n:22163/1:9245] 
+train loss ('acc', 0.9085165933626549)
+pass train loss ('acc', 0.8868984896382157)
+pass train loss now ('acc', 0.8374558303886925)
+vaild loss ('acc', 0.5858456617353058)
+pass vaild loss ('acc', 0.589041095890411)
+pass vaild loss now ('acc', 0.4876325088339223)
+test loss ('acc', 0.61637)
+pass test loss ('acc', 0.6075547080722782)
+pass test loss now ('acc', 0.6264044943820225)
+not pass
+
+2019-08-31 09:03:28 layer: 83
+all data ('acc', 0.9109863672814755)
+[p:315/1:139|n:22131/1:9247] 
+train loss ('acc', 0.9090763694522191)
+pass train loss ('acc', 0.8944077804793331)
+pass train loss now ('acc', 0.9111111111111111)
+vaild loss ('acc', 0.585125949620152)
+pass vaild loss ('acc', 0.5991663772143105)
+pass vaild loss now ('acc', 0.5904761904761905)
+test loss ('acc', 0.61745)
+pass test loss ('acc', 0.6058733995881458)
+pass test loss now ('acc', 0.6086601307189542)
+not pass
+
+2019-08-31 09:03:48 layer: 84
+all data ('acc', 0.9072886037601354)
+[p:307/1:149|n:22139/1:9237] 
+train loss ('acc', 0.9057576969212315)
+pass train loss ('acc', 0.8857540926506444)
+pass train loss now ('acc', 0.8306188925081434)
+vaild loss ('acc', 0.5853258696521392)
+pass vaild loss ('acc', 0.5987460815047022)
+pass vaild loss now ('acc', 0.5863192182410424)
+test loss ('acc', 0.61624)
+pass test loss ('acc', 0.6043650080833483)
+pass test loss now ('acc', 0.5946173254835997)
+not pass
+
+2019-08-31 09:04:08 layer: 85
+all data ('acc', 0.9098725830883008)
+[p:312/1:155|n:22134/1:9231] 
+train loss ('acc', 0.9080767692922831)
+pass train loss ('acc', 0.8908205841446454)
+pass train loss now ('acc', 0.8782051282051282)
+vaild loss ('acc', 0.5871651339464214)
+pass vaild loss ('acc', 0.5910987482614742)
+pass vaild loss now ('acc', 0.5160256410256411)
+test loss ('acc', 0.61499)
+pass test loss ('acc', 0.6054170790965536)
+pass test loss now ('acc', 0.6044520547945206)
+not pass
+
+2019-08-31 09:04:28 layer: 86
+all data ('acc', 0.9108527131782945)
+[p:276/1:130|n:22170/1:9256] 
+train loss ('acc', 0.9089564174330268)
+pass train loss ('acc', 0.8904929577464789)
+pass train loss now ('acc', 0.8731884057971014)
+vaild loss ('acc', 0.5855657736905238)
+pass vaild loss ('acc', 0.6007042253521127)
+pass vaild loss now ('acc', 0.605072463768116)
+test loss ('acc', 0.61667)
+pass test loss ('acc', 0.6066696710229833)
+pass test loss now ('acc', 0.6165217391304347)
+not pass
+
+2019-08-31 09:04:48 layer: 87
+all data ('acc', 0.9100953399269358)
+[p:242/1:119|n:22204/1:9267] 
+train loss ('acc', 0.9082766893242703)
+pass train loss ('acc', 0.8880969351389879)
+pass train loss now ('acc', 0.8429752066115702)
+vaild loss ('acc', 0.5853658536585366)
+pass vaild loss ('acc', 0.5962223806129722)
+pass vaild loss now ('acc', 0.5537190082644629)
+test loss ('acc', 0.61711)
+pass test loss ('acc', 0.6064190738193489)
+pass test loss now ('acc', 0.615625)
+not pass
+
+2019-08-31 09:05:08 layer: 88
+all data ('acc', 0.9080905283792212)
+[p:236/1:115|n:22210/1:9271] 
+train loss ('acc', 0.9064774090363854)
+pass train loss ('acc', 0.8875)
+pass train loss now ('acc', 0.8347457627118644)
+vaild loss ('acc', 0.5832467013194722)
+pass vaild loss ('acc', 0.5946428571428571)
+pass vaild loss now ('acc', 0.5338983050847458)
+test loss ('acc', 0.61519)
+pass test loss ('acc', 0.6040336756406698)
+pass test loss now ('acc', 0.5868055555555556)
+not pass
+
+2019-08-31 09:05:28 layer: 89
+all data ('acc', 0.9068430900828656)
+[p:388/1:192|n:22058/1:9194] 
+train loss ('acc', 0.9053578568572571)
+pass train loss ('acc', 0.8794037940379403)
+pass train loss now ('acc', 0.7938144329896907)
+vaild loss ('acc', 0.5876049580167932)
+pass vaild loss ('acc', 0.5904471544715447)
+pass vaild loss now ('acc', 0.5257731958762887)
+test loss ('acc', 0.6155)
+pass test loss ('acc', 0.6004173187271779)
+pass test loss now ('acc', 0.5677585099550417)
+not pass
+
+2019-08-31 09:05:48 layer: 90
+all data ('acc', 0.9094716207787579)
+[p:346/1:162|n:22100/1:9224] 
+train loss ('acc', 0.9077169132347062)
+pass train loss ('acc', 0.8890034364261168)
+pass train loss now ('acc', 0.8641618497109826)
+vaild loss ('acc', 0.5863654538184726)
+pass vaild loss ('acc', 0.5910652920962199)
+pass vaild loss now ('acc', 0.523121387283237)
+test loss ('acc', 0.61612)
+pass test loss ('acc', 0.6074931518953787)
+pass test loss now ('acc', 0.6217201166180758)
+not pass
+
+2019-08-31 09:06:08 layer: 91
+all data ('acc', 0.9056402031542369)
+[p:361/1:165|n:22085/1:9221] 
+train loss ('acc', 0.9042782886845262)
+pass train loss ('acc', 0.8851282051282051)
+pass train loss now ('acc', 0.8337950138504155)
+vaild loss ('acc', 0.5820871651339464)
+pass vaild loss ('acc', 0.588034188034188)
+pass vaild loss now ('acc', 0.5013850415512465)
+test loss ('acc', 0.61288)
+pass test loss ('acc', 0.6042594047307323)
+pass test loss now ('acc', 0.5958994708994709)
+not pass
+
+2019-08-31 09:06:28 layer: 92
+all data ('acc', 0.9068430900828656)
+[p:266/1:126|n:22180/1:9260] 
+train loss ('acc', 0.9053578568572571)
+pass train loss ('acc', 0.8848056537102473)
+pass train loss now ('acc', 0.8120300751879699)
+vaild loss ('acc', 0.5828468612554978)
+pass vaild loss ('acc', 0.5879858657243816)
+pass vaild loss now ('acc', 0.4699248120300752)
+test loss ('acc', 0.61426)
+pass test loss ('acc', 0.604153325404812)
+pass test loss now ('acc', 0.59026369168357)
+not pass
+
+2019-08-31 09:06:48 layer: 93
+all data ('acc', 0.9101844426623897)
+[p:433/1:206|n:22013/1:9180] 
+train loss ('acc', 0.9083566573370652)
+pass train loss ('acc', 0.8815482148815482)
+pass train loss now ('acc', 0.8175519630484989)
+vaild loss ('acc', 0.5859256297481008)
+pass vaild loss ('acc', 0.5949282615949283)
+pass vaild loss now ('acc', 0.5635103926096998)
+test loss ('acc', 0.61715)
+pass test loss ('acc', 0.6059485945156021)
+pass test loss now ('acc', 0.6084123222748815)
+not pass
+
+2019-08-31 09:07:08 layer: 94
+all data ('acc', 0.9071103982892275)
+[p:349/1:168|n:22097/1:9218] 
+train loss ('acc', 0.9055977608956417)
+pass train loss ('acc', 0.8867147270854789)
+pass train loss now ('acc', 0.8452722063037249)
+vaild loss ('acc', 0.5872850859656138)
+pass vaild loss ('acc', 0.5811877789220735)
+pass vaild loss now ('acc', 0.44126074498567336)
+test loss ('acc', 0.61488)
+pass test loss ('acc', 0.6063248766737139)
+pass test loss now ('acc', 0.6119402985074627)
+not pass
+
+2019-08-31 09:07:28 layer: 95
+all data ('acc', 0.9089370043660341)
+[p:323/1:160|n:22123/1:9226] 
+train loss ('acc', 0.9072371051579369)
+pass train loss ('acc', 0.8874263941808105)
+pass train loss now ('acc', 0.848297213622291)
+vaild loss ('acc', 0.5846061575369852)
+pass vaild loss ('acc', 0.5940422583997229)
+pass vaild loss now ('acc', 0.544891640866873)
+test loss ('acc', 0.61471)
+pass test loss ('acc', 0.6046511627906976)
+pass test loss now ('acc', 0.5982404692082112)
+not pass
+
+2019-08-31 09:07:48 layer: 96
+all data ('acc', 0.9086696961596721)
+[p:485/1:198|n:21961/1:9188] 
+train loss ('acc', 0.9069972011195522)
+pass train loss ('acc', 0.8888160052476222)
+pass train loss now ('acc', 0.8701030927835052)
+vaild loss ('acc', 0.587125149940024)
+pass vaild loss ('acc', 0.5897015414890128)
+pass vaild loss now ('acc', 0.534020618556701)
+test loss ('acc', 0.61501)
+pass test loss ('acc', 0.6050655886478014)
+pass test loss now ('acc', 0.6029411764705882)
+not pass
+
+2019-08-31 09:08:08 layer: 97
+all data ('acc', 0.904971932638332)
+[p:437/1:199|n:22009/1:9187] 
+train loss ('acc', 0.9036785285885646)
+pass train loss ('acc', 0.886371209596801)
+pass train loss now ('acc', 0.851258581235698)
+vaild loss ('acc', 0.5829668132746901)
+pass vaild loss ('acc', 0.5911362879040319)
+pass vaild loss now ('acc', 0.5377574370709383)
+test loss ('acc', 0.61606)
+pass test loss ('acc', 0.6086364023507367)
+pass test loss now ('acc', 0.6258351893095768)
+not pass
+
+2019-08-31 09:08:28 layer: 98
+all data ('acc', 0.9076450147019514)
+[p:328/1:147|n:22118/1:9239] 
+train loss ('acc', 0.906077568972411)
+pass train loss ('acc', 0.8886583679114799)
+pass train loss now ('acc', 0.8597560975609756)
+vaild loss ('acc', 0.5875649740103959)
+pass vaild loss ('acc', 0.5947441217150761)
+pass vaild loss now ('acc', 0.551829268292683)
+test loss ('acc', 0.61588)
+pass test loss ('acc', 0.6033271061293479)
+pass test loss now ('acc', 0.5864197530864198)
+not pass
+
+2019-08-31 09:08:47 layer: 99
+all data ('acc', 0.9076004633342244)
+[p:324/1:151|n:22122/1:9235] 
+train loss ('acc', 0.9060375849660136)
+pass train loss ('acc', 0.889196675900277)
+pass train loss now ('acc', 0.8641975308641975)
+vaild loss ('acc', 0.5858056777289085)
+pass vaild loss ('acc', 0.596606648199446)
+pass vaild loss now ('acc', 0.5679012345679012)
+test loss ('acc', 0.61616)
+pass test loss ('acc', 0.6056200691428065)
+pass test loss now ('acc', 0.6062874251497006)
+not pass
+
+2019-08-31 09:09:08 layer: 100
+all data ('acc', 0.9053283435801479)
+[p:267/1:122|n:22179/1:9264] 
+train loss ('acc', 0.9039984006397441)
+pass train loss ('acc', 0.8876722006358178)
+pass train loss now ('acc', 0.8426966292134831)
+vaild loss ('acc', 0.5850459816073571)
+pass vaild loss ('acc', 0.5944895796538325)
+pass vaild loss now ('acc', 0.5393258426966292)
+test loss ('acc', 0.61555)
+pass test loss ('acc', 0.6047844278697472)
+pass test loss now ('acc', 0.5977121067683508)
+not pass
+
+2019-08-31 09:09:27 layer: 101
+all data ('acc', 0.9079568742760403)
+[p:309/1:145|n:22137/1:9241] 
+train loss ('acc', 0.9063574570171932)
+pass train loss ('acc', 0.8882701009397842)
+pass train loss now ('acc', 0.8543689320388349)
+vaild loss ('acc', 0.5838864454218312)
+pass vaild loss ('acc', 0.6011138183083884)
+pass vaild loss now ('acc', 0.6084142394822006)
+test loss ('acc', 0.61622)
+pass test loss ('acc', 0.6063062260621715)
+pass test loss now ('acc', 0.6123244929797191)
+STATUS_BREAK
