@@ -1,4 +1,4 @@
-# EcoForest
+# EcoForest（DBRF）
 Eco-Forest is more effective version of gcForest
 
 # GOAL
@@ -75,10 +75,13 @@ EnhancedForest_multiclass_v0.2: before AlgorithmUtils. 12.10
 # Using Data Introduction
 - Kaggle Datasets:
   - Driver: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+  - Credit Card: https://www.kaggle.com/mlg-ulb/creditcardfraud
 - UCI Datasets
   - Letter: https://archive.ics.uci.edu/ml/datasets/letter+recognition
   - Adult: https://archive.ics.uci.edu/ml/datasets/adult
   - Yeast: https://archive.ics.uci.edu/ml/datasets/Yeast
+  - Skin: https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
+  - Poker: https://archive.ics.uci.edu/ml/datasets/Poker+Hand
 
 
 Happy Hacking.
