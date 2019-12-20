@@ -1,0 +1,6 @@
+
+选用UCI的adult数据集
+1. 在gcForest上还原实验
+ python tools/train_cascade.py --model models/uci_adult/gcforest/ca-tree500-n4x2-3folds.json --log_dir logs/gcforest/uci_adult/ca
+2. 在gcForest上利用AUC进行测试
+ 
